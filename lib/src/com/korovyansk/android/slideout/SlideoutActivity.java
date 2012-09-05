@@ -6,8 +6,8 @@ import android.view.KeyEvent;
 
 public class SlideoutActivity extends Activity {
 
-	public static void prepare(Activity activity, int id, int width){
-		SlideoutHelper.prepare(activity, id, width);
+	public static void prepare(Activity activity, int width){
+		SlideoutHelper.prepare(activity, width);
 	}
 	
 	@Override
