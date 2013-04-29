@@ -7,7 +7,7 @@
         android:id="@+id/slideout_placeholder"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:background="#777777"/>
+        android:background="@color/slideout_bg"/>
 
     <ImageView
         android:id="@+id/slidedout_cover"
